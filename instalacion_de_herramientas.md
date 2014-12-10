@@ -1,6 +1,6 @@
 # Instalación de herramientas
 
-1. [OpenShift Client rhc](#openShift-client-rhc)
+1. [OpenShift Client rhc](#openshift-client-rhc)
 2. [Eclipse Plugin](#plugin-eclipse)
 
 ### OpenShift Client rhc
