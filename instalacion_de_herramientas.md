@@ -1,9 +1,9 @@
 # Instalación de herramientas
 
-1. [rhc](#rhc)
+1. [OpenShift Client rhc](#openShift-client-rhc)
 2. [Eclipse Plugin](#plugin-eclipse)
 
-### rhc
+### OpenShift Client rhc
 
 Instalar rhc: `$> gem install rhc`
 
