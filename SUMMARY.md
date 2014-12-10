@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Requisitos
+* [Requisitos](requisitos.md)
 * [Instalación de herramientas](instalacion_de_herramientas.md)
 
