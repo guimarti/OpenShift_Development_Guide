@@ -1,9 +1,9 @@
 # Instalación de herramientas
 
 1. [rhc](#rhc)
-2. [Eclipse Plugin](#eclipseplugin)
+2. [Eclipse Plugin](#plugin-eclipse)
 
-### rhc <a name="rhc"></a>
+### rhc
 
 Instalar rhc: `$> gem install rhc`
 
@@ -23,7 +23,7 @@ Si el proceso falla por algo del tipo `unknow host http://rubygems.org....` , si
 
   Una vez descargadas todas las gemas, colocarlas todas en el mismo directorio y ejecutar el comando en dicho directorio `$> gem install rhc`
 
-### Plugin Eclipse <a name="eclipseplugin"></a>
+### Plugin Eclipse
 1. En Eclipse, Help > Eclipse Marketplace..
 1. Buscar OpenShift.
 1. Instalar ** JBoss Tools (Luna) 4.2.0 Final **.
