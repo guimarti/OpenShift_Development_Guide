@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * Instalación de herramientas
-   * rhc
+   * Instalación rhc
    * Eclipse Plugin
 
