@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Herramientas
+* Instalación de herramientas
    * rhc
    * Eclipse Plugin
 
