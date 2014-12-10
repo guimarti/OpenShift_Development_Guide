@@ -1,3 +1,0 @@
-# rhc
-
-Texto de prueba
