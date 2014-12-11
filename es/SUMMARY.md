@@ -5,4 +5,5 @@
 * [Requisitos](requisitos.md)
 * [Instalación de herramientas](instalacion_de_herramientas.md)
    * Instalación OpenShift Client rhc
+   * Instalación Eclipse IDE Plugin
 
