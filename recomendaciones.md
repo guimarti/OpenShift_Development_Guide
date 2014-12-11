@@ -1,4 +1,4 @@
-# Recomendaciones
+# Recomendaciones de desarrollo orientado a PaaS
 
 ## Arquitectura
 1. Orientar la arquitectura a un entorno PaaS.
