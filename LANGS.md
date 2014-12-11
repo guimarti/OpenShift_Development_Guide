@@ -1,1 +1,1 @@
-* [Español](es)
+* [Español](es/)
