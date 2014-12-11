@@ -6,5 +6,5 @@
 * [Instalación de herramientas](instalacion_de_herramientas.md)
    * [Instalación OpenShift Client rhc](instalacion_openshift_client_rhc.md)
    * [Instalación Eclipse IDE Plugin](instalacion_eclipse_ide_plugin.md)
-* Debug de aplicaciones
+* [Debug de aplicaciones](debug_de_aplicaciones.md)
 
