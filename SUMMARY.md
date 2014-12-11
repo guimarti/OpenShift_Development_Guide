@@ -5,5 +5,5 @@
 * [Instalación de herramientas](instalacion_de_herramientas.md)
   * [Openshift Client rhc](./instalacion_de_herramientas.md#openshift-client-rhc)
   * [Plugin Eclipse](./instalacion_de_herramientas.md#plugin-eclipse)
-* [Recomendaciones](recomendaciones.md)
+* [Recomendaciones de desarrollo orientado a PaaS](recomendaciones.md)
 
