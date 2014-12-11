@@ -1,2 +1,0 @@
-# Actualización de la aplicación
-
